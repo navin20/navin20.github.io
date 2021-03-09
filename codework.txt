@@ -1,0 +1,9 @@
+//friendly app to meet new friends.
+// platform involved html css js node js and (maybe herokuapp.com)
+//database=phpmyadmin  maybe(change to mongo db)
+
+//similar to tinder 
+// in the web app we will implement only match and creating user account no messaging involved.
+
+
+
